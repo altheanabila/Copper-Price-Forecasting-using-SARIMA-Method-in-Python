@@ -64,4 +64,6 @@ This time I would like to run SARIMA method in order to forecast the price of co
 
 
 11. visualize the graph
+
+
 ![textimage](https://github.com/altheanabila/Copper-Price-Forecasting-using-SARIMA-Method-in-Python/blob/main/pic10.png)
